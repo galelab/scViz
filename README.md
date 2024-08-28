@@ -12,7 +12,7 @@ library(scViz)
 ## How to execute pipeline for heatmap
 
 ```R
-folder <- "./test_DE_data/"
+folder <- "./test_DE_data/" # test data a part of repository
 
 data <- format_data(folder=folder)
 
