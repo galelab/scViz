@@ -21,8 +21,6 @@ clusters <- sc_heatmap(data$data)
 
 ### Output files for heatmap
 ----------------
-Output files by 
-
 * heatmap.png - heatmap of DE genes in each comparison 
 <img src="./output_example/heatmap.png?raw=true" width="300"/>
 
